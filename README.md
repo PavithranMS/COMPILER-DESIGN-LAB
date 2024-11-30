@@ -5,7 +5,7 @@ TOKENIZATION
 
 Statement: int a = b + 12 ;
 
-3. For a given code snippet, identify the list of tokens.
+2. For a given code snippet, identify the list of tokens.
 
 Code snippet:
 int main() 
